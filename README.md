@@ -28,8 +28,8 @@ End the program.
 
 ## Program:
 ```python
-# Developed By:Gedipudi Darshani
-# Register Number: 212223230062
+# Developed By: NISHA D
+# Register Number: 212223230143
 ```
 # i)Image Translation
 ```
@@ -38,7 +38,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the image
-image = cv2.imread('Fish.jpg')
+image = cv2.imread('christ.jpg')
 image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)  
 
 # 1. Translation
@@ -107,7 +107,32 @@ plt.show()
 
 ```
 ## Output:
+```python
+# Developed By: NISHA D
+# Register Number: 212223230143
+```
+
 ![image](https://github.com/user-attachments/assets/b7376c70-6cac-45c5-be2f-8e41a79d1dc2)
+
+
+![image](https://github.com/user-attachments/assets/6f18cc83-a5ae-42a9-b85d-1f2f83a26680)
+
+![image](https://github.com/user-attachments/assets/3ab17098-0d1b-4062-a683-a1b3207328eb)
+
+![image](https://github.com/user-attachments/assets/420afac4-4880-4f72-91e1-16c20ed3ef40)
+
+![image](https://github.com/user-attachments/assets/a1158ce5-a88f-4a1f-9b7f-76ff6ee292a3)
+
+
+![image](https://github.com/user-attachments/assets/29829688-c83b-4c33-a8b4-b59734849252)
+
+
+![image](https://github.com/user-attachments/assets/f43d5602-0469-474c-a55c-f8f9e65f61c8)
+
+
+
+
+
 
 
 ## Result: 
