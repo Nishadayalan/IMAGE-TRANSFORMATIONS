@@ -74,6 +74,7 @@ cropped_image = image_rgb[50:300, 100:400]
 # Plot the original and transformed images
 plt.figure(figsize=(12, 8))
 ```
+```
 plt.imshow(image_rgb)
 plt.title("Original Image")
 plt.axis('off')
