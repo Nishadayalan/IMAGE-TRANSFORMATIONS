@@ -111,12 +111,20 @@ plt.show()
 # Developed By: NISHA D
 # Register Number: 212223230143
 ```
-![image](https://github.com/user-attachments/assets/37930804-cc42-461b-b1e9-3001f5412b39)
+![image](https://github.com/user-attachments/assets/8662ee95-7094-4057-96d5-77f226e598bd)
 
 
 
+![image](https://github.com/user-attachments/assets/edbd7df5-4949-43b6-b5f6-feaef36201d5)
 
+![image](https://github.com/user-attachments/assets/be34e88a-b9f1-448a-8c9b-1d3a6d4b11fb)
 
+![image](https://github.com/user-attachments/assets/c158fb58-5378-4b96-91fb-fa8add4a793f)
+
+![image](https://github.com/user-attachments/assets/f87047b4-95d6-42e3-94e1-96b66edc7977)
+
+![image](https://github.com/user-attachments/assets/2934c9b5-c2c5-45f1-858a-f9f5ba9330ee)
+![image](https://github.com/user-attachments/assets/5cde88c1-ce45-4c1a-a0ae-6c465b3918ec)
 
 
 ## Result: 
